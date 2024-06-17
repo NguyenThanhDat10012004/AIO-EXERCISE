@@ -33,5 +33,5 @@ def approx_cosh(x, n):
     sum = sum + (x ** (2 * i)) / factorial(2 * i)
   return sum
 
-print(round(approx_cosh ( x =3.14 , n =10),2))
+approx_cos ( x =3.14 , n =10)
 
