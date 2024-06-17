@@ -46,5 +46,4 @@ def exercise2():
       return
     else:
       print(f"{function} is not supported")
-
-exercise2()
+print ( round ( sigmoid (3) , 2) )

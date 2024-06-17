@@ -30,5 +30,5 @@ def exercise1(tp, fp, fn):
   else:
     print(f">> precision is {precision(tp, fp, fn)} \n recall is {recall(tp,fp,fn)} \n f1-score is {F1_score(tp, fp, fn)}")
 
-exercise1 ( tp =2.1 , fp =3 , fn =0)
+print ( round ( F1_score ( tp =2 , fp =4 , fn =5) , 2) )
 
